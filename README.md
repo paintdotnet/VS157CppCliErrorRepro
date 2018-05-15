@@ -1,5 +1,5 @@
 # VS157CppCliErrorRepro
-Repro for an internal error in the C++/CLI that was introduced in VS 2017 15.7
+Repro for an internal error in the C++/CLI compiler that was introduced in VS 2017 15.7.
 
 Reported at:
 https://developercommunity.visualstudio.com/content/problem/246785/too-many-method-overloads-ccli-c1001-an-internal-e.html
